@@ -18,7 +18,7 @@ This project presents an in-depth analysis of the modern Olympic Games, covering
 ## Data Source
 The core dataset for this analysis is sourced from <a href="https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results" target="_blank"><strong>Kaggle</strong></a>, covering up to the Rio 2016 Olympics. It includes:
 
-- **`athlete_events.csv`**: 271,116 records with 15 attributes detailing athlete participation in individual Olympic events. Key fields include:
+- **`athlete_events_till_2024.csv`**: 301,116 records with 15 attributes detailing athlete participation in individual Olympic events. Key fields include:
   - ID: Athlete's unique identifier
   - Name: Athlete's full name
   - Sex: Gender (M/F)

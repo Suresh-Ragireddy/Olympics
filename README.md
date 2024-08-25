@@ -1,4 +1,4 @@
-# Olympic Evolution: A 128-Year Journey - Python <a href="https://olympics-world.streamlit.app/" target="_blank">Web App</a>
+# Olympic Evolution: A 128-Year Journey (1896 -2024)
 
 ### App Link
 Access the web app 1 here: [Olympic Evolution: A 128-Year Journey](https://olympics-world.streamlit.app/)
